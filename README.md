@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Eunverpool&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eunverpool&layout=compact&langs_count=8&card_width=100&theme=dark" />
+  </div>
 <!--
 **Eunverpool/Eunverpool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
