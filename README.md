@@ -1,14 +1,11 @@
 <h1 align="center">Eunverpool</h1>
 <h3 align="center">꾸준히 성장하는 개발자 지망생입니다 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eunverpool&label=Profile%20views&color=0e75b6&style=flat" alt="사용자명" />
-</p>
 
 ---
-<!--
-## 📌 About Me
 
+## 📌 About Me
+<!--
 - 🌱 **Currently learning**: Algorithm, , Flutter
 - 💻 **Interest**: Backend
 - ✍️ **Blog**: [https://velog.io/@사용자명](https://velog.io/@사용자명)
