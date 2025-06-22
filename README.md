@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Eunverpool's%20GitHub&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Eunverpool%20GitHub&fontSize=40&animation=fadeIn)
 <h3 align="center">꾸준히 성장하는 개발자 지망생입니다 🚀</h3>
 
 
