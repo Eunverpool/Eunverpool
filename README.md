@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eunverpool&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eunverpool&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Eunverpool&theme=tokyonight" width="48%" />
 </p>
 
 ---
