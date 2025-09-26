@@ -10,7 +10,7 @@
 - 🌱 **Currently learning**: Algorithm, , Flutter
 - 💻 **Interest**: Backend
 - ✍️ **Blog**: [https://velog.io/@사용자명](https://velog.io/@사용자명)
-- 📫 **Contact**: 사용자 이메일 또는 링크트리
+- 📫 **Contact**: 사용자 이메일 또는 링크트리 전화번호x
 
 ---
 -->
